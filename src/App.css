@@ -1,0 +1,12 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+body{
+  background-color: rgba(239, 106, 210, 0.978);
+  color: black;
+
+
+}
